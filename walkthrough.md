@@ -58,9 +58,9 @@ Since you're here, I assume you were not able to solve the puzzle on your own an
 
 ---
 
-**HINT:** Re-read END [](#spoiler "7"), as this one makes it fairly obvious who the killer is.
+**HINT:** [](#spoiler "Re-read END 7, as this one makes it fairly obvious who the killer is.")
 
-To access this Ending: JUMP 80 > B > END [](#spoiler "7")
+[](#spoiler "To access this Ending: JUMP 80 > B > END 7")
 
 ---
 
