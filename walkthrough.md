@@ -51,190 +51,190 @@ This guide is split into 3 sections:
 3. Routes accessible after completing the routes from Section 2 ([](#spoiler "After the Pink Bookmark appears"))
 
 ## Section 1
-<details>
-  <summary>The first route - DO NOT USE THIS SECTION UNLESS YOU ABSOLUTELY HAVE TO!</summary>
-  Since you're here, I assume you were not able to solve the puzzle on your own and have seen all branches that are available to you at this point.
 
-  ---
+**The first route - DO NOT USE THIS SECTION UNLESS YOU ABSOLUTELY HAVE TO!**
 
-  **HINT:** Re-read END 7, as this one makes it fairly obvious who the killer is.
+Since you're here, I assume you were not able to solve the puzzle on your own and have seen all branches that are available to you at this point.
 
-  To access this Ending: JUMP 80 > B > END 7
+---
 
-  ---
+**HINT:** Re-read END [](#spoiler "7"), as this one makes it fairly obvious who the killer is.
 
-  If you still can't figure it out, here is the solution:
+To access this Ending: JUMP 80 > B > END [](#spoiler "7")
 
-  JUMP 55 > Type [](#spoiler "mikimoto") > END 1/2/3
+---
 
-  JUMP 90 > Type [](#spoiler "mikimoto") > END 4
+If you still can't figure it out, here is the solution:
 
-  JUMP 116 > Type [](#spoiler "mikimoto") > END 5
+JUMP 55 > Type [](#spoiler "mikimoto") > END 1/2/3
 
-  ---
+JUMP 90 > Type [](#spoiler "mikimoto") > END 4
 
-  There is an additional Ending you can get here as well:
+JUMP 116 > Type [](#spoiler "mikimoto") > END 5
 
-  JUMP 116 > Type [](#spoiler "haruko") > END 10
+---
 
-  ---
+There is an additional Ending you can get here as well:
 
-  Aside from the ones mentioned above, the following additional Endings are obtainable here:
-  - END 6 [](#spoiler "Pole Position")
-  - END 8 [](#spoiler "Room Service")
-  - END 9 [](#spoiler "Mopped Up")
-  - END 11 [](#spoiler "A Trip Downstairs")
-  - END 12 [](#spoiler "Mr. President")
-  - END 43 [](#spoiler "Just Kidding...")
-</details>
+JUMP 116 > Type [](#spoiler "haruko") > END 10
+
+---
+
+Aside from the ones mentioned above, the following additional Endings are obtainable here:
+- END 6 [](#spoiler "Pole Position")
+- END 8 [](#spoiler "Room Service")
+- END 9 [](#spoiler "Mopped Up")
+- END 11 [](#spoiler "A Trip Downstairs")
+- END 12 [](#spoiler "Mr. President")
+- END 43 [](#spoiler "Just Kidding...")
+
+---
 
 ## Section 2
-<details>
-  <summary>After the first route</summary>
 
-  Now that you're here, you should've completed the [](#spoiler "Mystery") route and gotten all of the obtainable endings there. If you haven't, please go back and do so. You might not be able to proceed otherwise.
+**After the first route**
 
-  ---
+Now that you're here, you should've completed the [](#spoiler "Mystery") route and gotten all of the obtainable endings there. If you haven't, please go back and do so. You might not be able to proceed otherwise.
 
-  ### SCENE 121-129 [](#spoiler "Mari in Limbo")
-  JUMP 5 > D
+---
 
-  Obtainable Endings:
-  - END 46 [](#spoiler "Mari in Limbo")
+### SCENE 121-129 [](#spoiler "Mari in Limbo")
+JUMP 5 > D
 
-  ---
+Obtainable Endings:
+- END 46 [](#spoiler "Mari in Limbo")
 
-  ### SCENE 48-64 [](#spoiler "Spy")
-  This one is a bit tricky to get to. It also has some overlap with SCENE 65-74. However, the full path is described here in case you play the other route first:
+---
 
-  JUMP 1 > A > B > A > B > B > B > B > B > B > B > C > A > C > C
+### SCENE 48-64 [](#spoiler "Spy")
+This one is a bit tricky to get to. It also has some overlap with SCENE 65-74. However, the full path is described here in case you play the other route first:
 
-  If you already got to the [](#spoiler "Occult") route (SCENE 65-74), you can use this simplified path:
+JUMP 1 > A > B > A > B > B > B > B > B > B > B > C > A > C > C
 
-  JUMP 172 > B > B > B > B > B > C > A > C > C
+If you already got to the [](#spoiler "Occult") route (SCENE 65-74), you can use this simplified path:
 
-  Obtainable Endings:
-  - END 15 [](#spoiler "Haruko...")
-  - END 16 [](#spoiler "Midori...")
-  - END 17 [](#spoiler "Gunfire in the Wind")
-  - END 14 [](#spoiler "The Legendary Spy (Revisited)")
+JUMP 172 > B > B > B > B > B > C > A > C > C
 
-  ---
+Obtainable Endings:
+- END 15 [](#spoiler "Haruko...")
+- END 16 [](#spoiler "Midori...")
+- END 17 [](#spoiler "Gunfire in the Wind")
+- END 14 [](#spoiler "The Legendary Spy (Revisited)")
 
-  ### SCENE 65-74 [](#spoiler "Occult")
-  This one is also tricky to get to and has some overlap with SCENE 48-64. The full path is described here in case you play the other route first.
+---
 
-  JUMP 1 > A > B > A > B > B > A > B > A > A > D > A > A > B
+### SCENE 65-74 [](#spoiler "Occult")
+This one is also tricky to get to and has some overlap with SCENE 48-64. The full path is described here in case you play the other route first.
 
-  If you already got to the [](#spoiler "Spy") route (SCENE 48-64), you can use this simplified path:
+JUMP 1 > A > B > A > B > B > A > B > A > A > D > A > A > B
 
-  JUMP 172 > A > B > A > A > D > A > A > B
+If you already got to the [](#spoiler "Spy") route (SCENE 48-64), you can use this simplified path:
 
-  Obtainable Endings:
-  - END 18 [](#spoiler "When She Wakes")
-  - END 19 [](#spoiler "Until She Smiles Again")
+JUMP 172 > A > B > A > A > D > A > A > B
 
-  ---
+Obtainable Endings:
+- END 18 [](#spoiler "When She Wakes")
+- END 19 [](#spoiler "Until She Smiles Again")
 
-  ### SCENE 79-82 [](#spoiler "Night of the Kamaitaichi")
-  JUMP 1 > B
+---
 
-  Obtainable Endings:
-  - END 20 [](#spoiler "Night of the Kamaitaichi")
-  
-  ---
+### SCENE 79-82 [](#spoiler "Night of the Kamaitaichi")
+JUMP 1 > B
 
-  ### SCENE 75-78 [](#spoiler "Snow Maze")
-  JUMP 1 > A > B > B
+Obtainable Endings:
+- END 20 [](#spoiler "Night of the Kamaitaichi")
 
-  Obtainable Endings:
-  - END 13 [](#spoiler "Catastrophe...")
+---
 
-  ---
+### SCENE 75-78 [](#spoiler "Snow Maze")
+JUMP 1 > A > B > B
 
-  ### SCENE 113-120 [](#spoiler "Mari's Detective Story")
-  This one should be self explanatory, since the game will outright ask you if you want to start this route after obtaining END 3.
+Obtainable Endings:
+- END 13 [](#spoiler "Catastrophe...")
 
-  If you missed this or closed the dialog, here's how to get there again:
+---
 
-  JUMP 260
+### SCENE 113-120 [](#spoiler "Mari's Detective Story")
+This one should be self explanatory, since the game will outright ask you if you want to start this route after obtaining END 3.
 
-  Obtainable Endings:
-  - END 44 [](#spoiler "Success (Detective Mari)")
-  - END 45 [](#spoiler "Failure (Detective Mari)")
+If you missed this or closed the dialog, here's how to get there again:
 
-  ---
+JUMP 260
 
-  ### SCENE 130-142 [](#spoiler "A Novel")
-  Like with SCENE 113-120, the game will outright ask you if you want to start this route once you unlock it.
+Obtainable Endings:
+- END 44 [](#spoiler "Success (Detective Mari)")
+- END 45 [](#spoiler "Failure (Detective Mari)")
 
-  This route is also accessible from the main menu by selecting Extras > [](#spoiler "A Novel"). Spoiler marking is for the sake of consistency, since the menu option contains the name of the route.
+---
 
-  Obtainable Endings:
-  - END 47 [](#spoiler "A Novel")
+### SCENE 130-142 [](#spoiler "A Novel")
+Like with SCENE 113-120, the game will outright ask you if you want to start this route once you unlock it.
 
-</details>
+This route is also accessible from the main menu by selecting Extras > [](#spoiler "A Novel"). Spoiler marking is for the sake of consistency, since the menu option contains the name of the route.
+
+Obtainable Endings:
+- END 47 [](#spoiler "A Novel")
+
+---
 
 ## Section 3
-<details>
-  <summary>The final stretch</summary>
 
-  Now that you've gotten here, I assume you've already gotten the [](#spoiler "Pink Bookmark"). If not, go back to the routes you've previously read and try all the choices you haven't selected so far. It should appear at some point. I believe it appeared for me on one of the Bad Endings obtainable on the [](#spoiler "Spy") route. Though I honestly have no idea what exactly causes it to appear. It should definitely appear at some point while reading the routes mentioned in Section 2.
+**The final stretch**
 
-  ---
+Now that you've gotten here, I assume you've already gotten the [](#spoiler "Pink Bookmark"). If not, go back to the routes you've previously read and try all the choices you haven't selected so far. It should appear at some point. I believe it appeared for me on one of the Bad Endings obtainable on the [](#spoiler "Spy") route. Though I honestly have no idea what exactly causes it to appear. It should definitely appear at some point while reading the routes mentioned in Section 2.
 
-  ### SCENE 84-87 [](#spoiler "The Comedy of O")
-  JUMP 2 > B > B > B > A > B > A
+---
 
-  Obtainable Endings:
-  - END 21 [](#spoiler "The Comedy of O")
+### SCENE 84-87 [](#spoiler "The Comedy of O")
+JUMP 2 > B > B > B > A > B > A
 
-  ---
+Obtainable Endings:
+- END 21 [](#spoiler "The Comedy of O")
 
-  ### SCENE 88-93 [](#spoiler "Cryptography")
-  JUMP 39 > C > C > B
+---
 
-  There is an additional secret ending on this route after obtaining END 22 and END 23, obtainable like this:
+### SCENE 88-93 [](#spoiler "Cryptography")
+JUMP 39 > C > C > B
 
-  JUMP 220 > C
+There is an additional secret ending on this route after obtaining END 22 and END 23, obtainable like this:
 
-  **Do not use skip mode from here.** 
-  
-  Once you get to the message that reads [](#spoiler "A smile crept over his face. It was kind of disconcerting, to be honest.") press the Z key. If you changed your key mappings, press the key you mapped to the function "Go back to previous line".
+JUMP 220 > C
 
-  Obtainable Endings:
-  - END 22 [](#spoiler "Are you Kidding Me, Kobayashi?")
-  - END 23 [](#spoiler "Sure, Kobayashi")
-  - END 24 [](#spoiler "Chunsoft Party Conspiracy")
+**Do not use skip mode from here.** 
 
-  ---
+Once you get to the message that reads [](#spoiler "A smile crept over his face. It was kind of disconcerting, to be honest.") press the Z key. If you changed your key mappings, press the key you mapped to the function "Go back to previous line".
 
-  ### SCENE 94-112 [](#spoiler "Labyrinth")
-  **NOTE:** Before you can get to this route, you need to obtain END 24 from the [](#spoiler "Cryptography") route (SCENE 88-93).
+Obtainable Endings:
+- END 22 [](#spoiler "Are you Kidding Me, Kobayashi?")
+- END 23 [](#spoiler "Sure, Kobayashi")
+- END 24 [](#spoiler "Chunsoft Party Conspiracy")
 
-  JUMP 202 > B > B > A
+---
 
-  Obtainable Endings:
-  - END 25 [](#spoiler "Li'l Labby")
-  - END 26 [](#spoiler "Lodgie")
-  - END 27 [](#spoiler "I Fell Asleep")
-  - END 28 [](#spoiler "Muramasa, the Demon Blade")
-  - END 29 [](#spoiler "I Got Roasted")
-  - END 30 [](#spoiler "We Got Roasted")
-  - END 31 [](#spoiler "Door 4")
-  - END 32 [](#spoiler "Door 2")
-  - END 33 [](#spoiler "Door #")
-  - END 34 [](#spoiler "Door 6")
-  - END 35 [](#spoiler "Door 9")
-  - END 36 [](#spoiler "Door 3")
-  - END 37 [](#spoiler "Door 1")
-  - END 38 [](#spoiler "Door *")
-  - END 39 [](#spoiler "Door 5")
-  - END 40 [](#spoiler "Door 0")
-  - END 41 [](#spoiler "Door 8")
-  - END 42 [](#spoiler "The Box of Unhappiness")
+### SCENE 94-112 [](#spoiler "Labyrinth")
+**NOTE:** Before you can get to this route, you need to obtain END 24 from the [](#spoiler "Cryptography") route (SCENE 88-93).
 
-</details>
+JUMP 202 > B > B > A
+
+Obtainable Endings:
+- END 25 [](#spoiler "Li'l Labby")
+- END 26 [](#spoiler "Lodgie")
+- END 27 [](#spoiler "I Fell Asleep")
+- END 28 [](#spoiler "Muramasa, the Demon Blade")
+- END 29 [](#spoiler "I Got Roasted")
+- END 30 [](#spoiler "We Got Roasted")
+- END 31 [](#spoiler "Door 4")
+- END 32 [](#spoiler "Door 2")
+- END 33 [](#spoiler "Door #")
+- END 34 [](#spoiler "Door 6")
+- END 35 [](#spoiler "Door 9")
+- END 36 [](#spoiler "Door 3")
+- END 37 [](#spoiler "Door 1")
+- END 38 [](#spoiler "Door *")
+- END 39 [](#spoiler "Door 5")
+- END 40 [](#spoiler "Door 0")
+- END 41 [](#spoiler "Door 8")
+- END 42 [](#spoiler "The Box of Unhappiness")
 
 ---
 
